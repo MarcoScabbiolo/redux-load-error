@@ -1,6 +1,6 @@
 {
   "name": "redux-load-error",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description":
     "Pre-reducer for UI reducers that can be loading or have an error",
   "homepage": "https://github.com/MarcoScabbiolo/redux-load-error",
