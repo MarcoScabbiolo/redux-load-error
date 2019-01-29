@@ -13,7 +13,7 @@ Compose your reducer with this pre-reducer to have it handle the `loading` and `
 You need to declare which actions will cause the component to load, display an error, or display its default content.
 ```js
 import * as actions from 'actions';
-import loadAndError from 'react-load-error';
+import loadAndError from 'redux-load-error';
 
 const loadingActions = [actions.LOADING];
 const notLoadingActions = [actions.DONE];
